@@ -1,0 +1,1 @@
+First repo folder is created and Cloned the newly created repository and added README.md file
